@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @labhannon81
 - 👀 I’m interested in ... Software Development and UI/UX Design
-- 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ... 
+- 🌱 I’m currently learning ... the basics.
+- 💞️ I’m looking to collaborate on ... anything that helps me build a strong foundation in the basics. 
 - 📫 How to reach me ... Slack, Twitter, and Facebook
 
 <!---
