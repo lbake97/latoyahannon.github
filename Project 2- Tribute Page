@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main id="main">
+      <h1 id="title">Madame C.J. Walker</h1>
+      <p>Pioneer, Entreprenuer, Philanthropist</p>
+      <div id="img-div">
+        <img
+          id="image"
+          src="https://madamcjwalker.com/wp-content/uploads/2020/02/MCJW-Fur-duotone-blue-small-1.png"
+          alt="Madame C.J. Walker"
+        />
+        <figcaption id="img-caption">
+          Madame C.J. Walker is the world's first female sef-made millionaire.
+        </figcaption>
+      </div>
+      <section id="tribute-info">
+        <h3 id="headline">Here's a time line of Madam C.J. Walker's life:</h3>
+        <ul>
+          <li><strong>1867</strong> - Born in Delta, Louisiana as Sarah Breedlove</li>
+          <li>
+            <strong>1874</strong> - Orphaned at age seven, she moves in with her older siste Louvenia and her husband, Jesse Powell
+          </li>
+          <li>
+            <strong>1881</strong> - She marries her first husband, Moses McWilliams
+          </li>
+          <li>
+            <strong>1885</strong> - On June 6, she gives birth tho her only daughter Lelia.
+          </li>
+          <li>
+            <strong>1887</strong> - She moves to St. Louis after the death of her husband.
+          </li>
+          <li>
+            <strong>1890s</strong> - Sarah began to experience hair lose due to a scalp ailment. During this time, she experimented with various homemade remedies and store-brought products to restore her hair.
+          </li>
+          <li>
+            <strong>1905</strong> - She moved to Denver to work as a sales agent for Annie Malone, another black woman entrepreneur. While in Denver, she met and married her third husband Charles Joseph Walker, a St. Louis newspaperman. Then, she officially changed her name to Madame C.J. Walker.
+          </li>
+          <li>
+            <strong>1908</strong> - Walker temporarily moves her operation to Pittsburgh where she opened Lelia College to train Walker "hair culturists".
+          </li>
+          <li>
+            <strong>1910</strong> - She settled in Indianapolis where she built a factory, hair and manicure salon and another training school.
+          </li>
+        </ul>
+        <blockquote
+          cite="http://https://madamcjwalker.com/about/"
+          <p>
+            "I am a woman who came from the cotton fields of the South. 
+
+From there I was promoted to the washtub. From there I was promoted to the cook kitchen. 
+
+And from there I promoted myself into the business of manufacturing hair goods and preparations….I have built my own factory on my own ground."
+          </p>
+          <cite>-- Madam C.J. Walker</cite>
+        </blockquote>
+        <h3>
+          If you would like to know more about this amazing woman check out her 
+          <a
+            id="tribute-link"
+            href="https://madamcjwalker.com"
+            target="_blank"
+            >Official website</a
+          >.
+        </h3>
+      </section>
+    </main>
+  </body>
+</html>
