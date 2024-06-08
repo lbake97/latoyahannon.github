@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @labhannon81
+- 👋 Hi, I’m @lbake97
 - 👀 I’m interested in ... Software Development and UI/UX Design
-- 🌱 I’m currently learning ... the basics.
-- 💞️ I’m looking to collaborate on ... anything that helps me build a strong foundation in the basics. 
-- 📫 How to reach me ... Slack, Twitter, and Facebook
+- 🌱 I’m currently learning ... Web development fundamentals.
+- 💞️ I’m looking to collaborate on ... anything that helps me become a stronger programmer. 
+- 📫 How to reach me ... Slack, Instagram, and Facebook
 
 <!---
 labhannon81/labhannon81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
